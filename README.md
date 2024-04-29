@@ -6,7 +6,7 @@ sharp-dev-lib-extension是c#中经常用到的服务。
 
 ## 依赖说明
 
-sharp-dev-lib-extension使用netstandard2.1框架，依赖第三方库如下：
+sharp-dev-lib-extension使用net6.0框架，依赖第三方库如下：
 
 * **DocumentFormat.OpenXml (>= 2.16.0)**
     用于Excel的读写

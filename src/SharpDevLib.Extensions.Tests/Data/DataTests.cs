@@ -1,12 +1,8 @@
-﻿using Microsoft.Data.Sqlite;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MySql.Data.MySqlClient;
 using SharpDevLib.Extensions.Data;
 using System;
-using System.Data.Common;
-using System.Data.SqlClient;
 using System.IO;
 
 namespace SharpDevLib.Extensions.Tests.Data;
